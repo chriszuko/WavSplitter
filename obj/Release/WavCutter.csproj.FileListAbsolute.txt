@@ -1,0 +1,7 @@
+C:\Users\chris\Downloads\WavCutter02\WavCutter\bin\Release\WavCutter.exe.config
+C:\Users\chris\Downloads\WavCutter02\WavCutter\bin\Release\WavCutter.exe
+C:\Users\chris\Downloads\WavCutter02\WavCutter\bin\Release\WavCutter.pdb
+C:\Users\chris\Downloads\WavCutter02\WavCutter\obj\Release\WavCutter.csprojAssemblyReference.cache
+C:\Users\chris\Downloads\WavCutter02\WavCutter\obj\Release\WavCutter.csproj.CoreCompileInputs.cache
+C:\Users\chris\Downloads\WavCutter02\WavCutter\obj\Release\WavCutter.exe
+C:\Users\chris\Downloads\WavCutter02\WavCutter\obj\Release\WavCutter.pdb
